@@ -1,0 +1,2 @@
+# Deep Neural Network for Pulsed Dielectric Barrier Discharge
+A fully connected multilayer BP network together with the universal hidden layer structure is developed to explore the discharge characteristics of atmospheric pulsed DBDs. The discharge characteristics such as current density, gap voltage, electron density, ion density, and electric field of atmospheric pulsed DBDs can be accurately and efficiently predicted by the well-trained DNN.
